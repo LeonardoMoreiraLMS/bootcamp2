@@ -4,7 +4,7 @@
 
 ## 🔗 Deploy
 
-**[https://cep-explorer.vercel.app](https://cep-explorer.vercel.app)** *(link de exemplo — substituir pelo real após o deploy)*
+**[https://cep-explorer.vercel.app](https://cep-explorer.vercel.app)** 
 
 ---
 
